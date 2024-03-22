@@ -1,0 +1,5 @@
+{
+  "fs": {
+    "files": ["my-dapp.py", "entrypoint.sh"]
+  }
+}
