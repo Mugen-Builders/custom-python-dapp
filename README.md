@@ -1,6 +1,6 @@
 # Custom Python dApp
 
-This is customized dApp written in Python, which uses the deprecated way of building Cartesi dApp.
+This is customized dApp written in Python, which follows the **deprecated** approach of building Cartesi dApps.
 
 ## Requirements
 
